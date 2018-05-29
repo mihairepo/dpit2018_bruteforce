@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "308594359674",
+    "firebase_url": "https://dpi2018-bruteforce-demo.firebaseio.com",
+    "project_id": "dpi2018-bruteforce-demo",
+    "storage_bucket": "dpi2018-bruteforce-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308594359674:android:c449630439eda7c3",
+        "android_client_info": {
+          "package_name": "bruteforce.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308594359674-8jqda68uk519gs5jp9rb42u0r6l51a5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlF8uyR1NBfeTnneJ-AmY05Qx0wrw9c8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308594359674:android:9f8450609a0cfeb0",
+        "android_client_info": {
+          "package_name": "ro.bruteforce.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308594359674-8jqda68uk519gs5jp9rb42u0r6l51a5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlF8uyR1NBfeTnneJ-AmY05Qx0wrw9c8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
